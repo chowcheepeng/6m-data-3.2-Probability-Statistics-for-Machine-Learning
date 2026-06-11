@@ -6,7 +6,7 @@ This is the simplest version of "show up prepared": watch a short intro video, r
 
 | Step | Time | What you do |
 |---|---|---|
-| **1. Watch the intro video** | ~5 min  | [L02 intro video on YouTube](https://youtu.be/E5IVt1wVYXo) — sets up Sarah's "how sure are we?" problem |
+| **1. Watch the intro video** | ~5 min  | [L02 intro video on YouTube](https://youtu.be/HNuzkM8quzA) — sets up Sarah's "how sure are we?" problem |
 | **2. Try it** | ~20 min | Open and run `notebooks/01_monday_morning.ipynb` |
 | **3. Reflect** | ~5 min  | Three short questions below |
 
@@ -14,7 +14,7 @@ This is the simplest version of "show up prepared": watch a short intro video, r
 
 ## Step 0 — Watch the intro video (~5 min)
 
-Before you open the notebook, watch the short intro video: **[https://youtu.be/E5IVt1wVYXo](https://youtu.be/E5IVt1wVYXo)**. It's under 5 minutes and frames the problem you're about to solve. Watching this first makes the notebook click faster.
+Before you open the notebook, watch the short intro video: **[L02 The Analyst s Defense](https://youtu.be/HNuzkM8quzA)**. It's under 5 minutes and frames the problem you're about to solve. Watching this first makes the notebook click faster.
 
 ---
 
